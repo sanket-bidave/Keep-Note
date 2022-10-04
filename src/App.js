@@ -42,8 +42,8 @@ function App() {
   return (
     <>
     <ToastContainer/>
-    <TempApptest/>
-    {/* <KeepNote/> */}
+    
+    <KeepNote/>
       {/* <Card /> */}
     </>
   );
