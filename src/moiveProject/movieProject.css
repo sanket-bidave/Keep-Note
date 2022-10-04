@@ -1,0 +1,18 @@
+.main_div1{
+    border: solid 2px black;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.img{
+    border: solid 2px blue;
+    width: 100px;
+    height: 35rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
